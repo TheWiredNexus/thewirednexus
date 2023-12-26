@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I develop with...</h2>
+<h2 align="left">I develop/work with...</h2>
 
 ###
 
